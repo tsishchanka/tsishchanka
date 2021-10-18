@@ -4,8 +4,8 @@
 </p>
 
 My current technical skills:
-- HTML5;
-- CSS3;
+- HTML5/CSS3;
+- SASS/SCSS;
 - JavaScript;
 - I`m currently learning React;
 - Git;
