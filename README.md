@@ -7,6 +7,7 @@ My current technical skills:
 - HTML5;
 - CSS3;
 - JavaScript;
+- I`m currently learning React;
 - Git;
 - Gulp;
 - Figma;
