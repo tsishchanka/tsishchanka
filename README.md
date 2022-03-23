@@ -8,7 +8,7 @@ My current technical skills:
 - SASS/SCSS;
 - JavaScript;
 - React/Redux;
-- Git;
+- Material UI, AntDesign, React-Bootstrap, TinyMCE;
 - Gulp;
 - Figma;
 - basic Photoshop usage.
