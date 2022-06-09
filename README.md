@@ -4,10 +4,10 @@
 </p>
 
 My current technical skills:
-- HTML5/CSS3, SASS/SCSS, pug.
-- JavaScript.
 - React/Redux.
+- JavaScript.
 - Material UI, AntDesign, React-Bootstrap, TinyMCE.
+- HTML5/CSS3, SASS/SCSS, pug.
 - Basic understanding of Node.js, Express, PostgreSQL, MongoDB.
 
 📫 How to reach me: e.tsish@gmail.com
