@@ -8,6 +8,6 @@ My current technical skills:
 - JavaScript.
 - React/Redux.
 - Material UI, AntDesign, React-Bootstrap, TinyMCE.
-- Basic knowledge of Node.js, Express, PostgreSQL, MongoDB.
+- Base knowledge of Node.js, Express, PostgreSQL, MongoDB.
 
 📫 How to reach me: e.tsish@gmail.com
