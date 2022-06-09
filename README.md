@@ -6,7 +6,7 @@
 My current technical skills:
 - React/Redux.
 - JavaScript.
-- Material UI, AntDesign, React-Bootstrap, TinyMCE.
+- styled-components, Material UI, AntDesign, React-Bootstrap, TinyMCE.
 - HTML5/CSS3, SASS/SCSS, pug.
 - Basic understanding of Node.js, Express, PostgreSQL, MongoDB.
 
